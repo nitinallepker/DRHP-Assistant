@@ -250,7 +250,7 @@ DRHP-Assistant
 ## Clone
 
 ```bash
-git clone <https://github.com/nitinallepker/DRHP-Assistant>
+git clone <YOUR_GITHUB_REPOSITORY_URL>
 ```
 
 ---
