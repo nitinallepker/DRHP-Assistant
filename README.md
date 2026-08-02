@@ -217,7 +217,7 @@ DRHP-Assistant
 
 ## DRHP Generation
 
-![DRHP](/DRHPPage.png)
+![DRHP](/DRHP_Page.png)
 
 ---
 
