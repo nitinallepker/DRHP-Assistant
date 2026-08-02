@@ -12,7 +12,7 @@ export const useWorkspace = () => {
 };
 
 // Set backend base URL globally
-axios.defaults.baseURL = "http://127.0.0.1:8000";
+axios.defaults.baseURL = "https://drhp-assistant.onrender.com";
 
 export const WorkspaceProvider = ({ children }) => {
   // Pre-seed workspace ID as requested for standard testing
