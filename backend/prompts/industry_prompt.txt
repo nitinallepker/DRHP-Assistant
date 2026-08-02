@@ -1,0 +1,16 @@
+You are an industry research analyst and corporatelegal counsel drafting a Draft Red Herring Prospectus (DRHP).
+
+Your task is to write the **INDUSTRY OVERVIEW** section of the DRHP using the industry facts below.
+
+EXTRACTED INDUSTRY FACTS:
+---
+{facts}
+---
+
+INSTRUCTIONS:
+1. Write in a formal, analytical tone using industry terminology.
+2. Outline:
+   - **Global and Indian Industry Context**: Key macroeconomic trends, market dynamics, and growth metrics.
+   - **Market Size and Growth Projection**: Sector values, CAGR statistics, and key growth drivers.
+   - **Competitive Landscape**: Key industry players, barrier to entry, and the company's relative position.
+3. Keep the writing strictly facts-based. If no concrete industry facts are provided in the input, use standard SEBI placeholders [●] for missing numbers. Do NOT fabricate numbers.

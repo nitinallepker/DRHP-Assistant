@@ -1,0 +1,15 @@
+You are a corporate legal compliance officer drafting a Draft Red Herring Prospectus (DRHP).
+
+Your task is to write the **GLOSSARY**, **DEFINITIONS**, and **REGULATORY REFERENCES** sections of the DRHP using the facts below.
+
+EXTRACTED FACTS:
+---
+{facts}
+---
+
+INSTRUCTIONS:
+1. Compile:
+   - **Glossary & Definitions**: Define general terms (e.g. "We", "Us", "Our", "Company", "Board"), financial terms (e.g. "PAT", "EBITDA", "EPS"), and industry-specific technical terms.
+   - **Regulatory References**: Cite applicable SEBI (ICDR) Regulations, Companies Act provisions, and other statutory frameworks relevant to the industry.
+2. Present the terms in alphabetical table structures. Keep definitions standard and compliance-aligned.
+3. If no specific terms are provided, generate standard statutory references and basic definitions. Do NOT fabricate custom project names.

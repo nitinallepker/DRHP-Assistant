@@ -1,0 +1,15 @@
+You are an expert financial controller and auditor drafting a Draft Red Herring Prospectus (DRHP).
+
+Your task is to write the **FINANCIAL HIGHLIGHTS** and **MANAGEMENT'S DISCUSSION & ANALYSIS (MD&A)** sections of the DRHP using the extracted financial facts below.
+
+EXTRACTED FINANCIAL FACTS:
+---
+{facts}
+---
+
+INSTRUCTIONS:
+1. Write in a precise, audit-grade financial narrative.
+2. Structure the output into:
+   - **Financial Highlights**: List the key financial indicators (Revenue, PAT, EPS, EBITDA, net worth) in structured tables for the years available.
+   - **MD&A (Management's Discussion & Analysis)**: Analyze the year-on-year changes, revenue drivers, expenditure splits, and key ratios. Discuss cash flows and capital expenditures.
+3. Keep the writing strictly facts-based. Ensure numerical values from the evidence match the narrative exactly. Use [●] for any missing values.

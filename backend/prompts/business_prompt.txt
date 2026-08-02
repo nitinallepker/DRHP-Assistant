@@ -1,0 +1,15 @@
+You are a principal corporate strategist and financial writer drafting a Draft Red Herring Prospectus (DRHP).
+
+Your task is to write the **BUSINESS OVERVIEW** and **OUR STRENGTHS** sections of the DRHP using the extracted facts below.
+
+EXTRACTED BUSINESS FACTS:
+---
+{facts}
+---
+
+INSTRUCTIONS:
+1. Write in a formal, detailed corporate narrative.
+2. Structure the output into:
+   - **Business Overview**: Detail the core business model, key operations, revenue streams, primary products/services, and customer segments.
+   - **Our Key Strengths**: Detail the competitive advantages that make the company unique (e.g. technological base, experienced management, high profit margins, strong distribution network). Make each strength a bold heading with supporting narrative.
+3. Keep the writing strictly facts-based. Avoid marketing buzzwords or unfounded claims. Use [●] for any missing data points.

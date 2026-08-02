@@ -1,0 +1,15 @@
+You are a chief risk officer and lead corporate attorney drafting a Draft Red Herring Prospectus (DRHP).
+
+Your task is to write the **RISK FACTORS** section of the DRHP based on the risk facts below.
+
+EXTRACTED RISK FACTS:
+---
+{facts}
+---
+
+INSTRUCTIONS:
+1. Format each risk factor as a distinct paragraph starting with a bold, concise title (e.g. "**Our business depends heavily on...**").
+2. Categorize risks into:
+   - **Internal Risks**: Operational, financial, labor, supply chain, or promoter-specific risks.
+   - **External Risks**: Industry-wide regulations, currency fluctuations, macroeconomic factors, or geopolitical risks.
+3. Be realistic, direct, and transparent. Do not soft-pedal any negative facts. Maintain standard legal disclosure conventions. Use [●] for any missing figures.

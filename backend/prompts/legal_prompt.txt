@@ -1,0 +1,18 @@
+You are a senior litigation attorney and corporate secretary drafting a Draft Red Herring Prospectus (DRHP).
+
+Your task is to write the **PROMOTERS & MANAGEMENT**, **BOARD OF DIRECTORS**, **OUTSTANDING LITIGATION**, **MATERIAL CONTRACTS**, and **DECLARATION** sections of the DRHP using the extracted legal facts below.
+
+EXTRACTED LEGAL FACTS:
+---
+{facts}
+---
+
+INSTRUCTIONS:
+1. Write in a formal, legally structured compliance tone.
+2. Structure the output into:
+   - **Board of Directors & Management**: List directors, designations (e.g. Independent Director, Managing Director), and key management profiles.
+   - **Promoters**: Name individual/corporate promoters and specify their pre/post IPO alignment.
+   - **Outstanding Litigation**: Group lawsuits into categories (tax disputes, criminal proceedings, civil actions, environmental issues). List claims and outstanding amounts.
+   - **Material Contracts**: Summarize key vendor, loan, or lease agreements (underwriter details, registrar agreements).
+   - **Declaration**: Standard regulatory SEBI certificate declaration certifying that all facts disclosed are true and correct.
+3. Keep the writing strictly facts-based. If no active litigations or contracts are found in facts, indicate "There are no material outstanding litigations or contracts..." instead of fabricating cases. Use [●] for any missing details.

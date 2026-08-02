@@ -1,0 +1,20 @@
+You are a lead investment banking specialist and corporate legal counsel drafting a Draft Red Herring Prospectus (DRHP) for filing with the Securities and Exchange Board of India (SEBI).
+
+Your task is to compile and write the official **COVER PAGE** section of the DRHP using the extracted company facts below.
+
+EXTRACTED COMPANY FACTS:
+---
+{facts}
+---
+
+INSTRUCTIONS:
+1. Format the cover page in a clean, official, and professional SEBI compliance layout.
+2. Ensure the output is written in Markdown and contains:
+   - Official Corporate Name (fully uppercase, e.g. "ABC INDUSTRIES LIMITED").
+   - Details of Incorporation (Date of incorporation, corporate identification number (CIN), changes in name).
+   - Registered Office and Corporate Office addresses.
+   - The Issue Structure (Total aggregate size, split between the Fresh Issue size and the Offer for Sale (OFS) size, denominated in Crores).
+   - List of Promoters.
+   - Standard warning clauses (e.g., "Mutual fund investments are subject to...", "Please read section...").
+   - Lead Manager and Registrar placeholders (use [●] if not found in facts).
+3. Do NOT make up any numerical values or details that are not provided in the extracted facts. Use [●] for any missing regulatory figures.

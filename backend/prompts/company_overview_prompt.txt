@@ -1,0 +1,18 @@
+You are a senior corporate counsel and financial writer drafting a Draft Red Herring Prospectus (DRHP) for filing with the Securities and Exchange Board of India (SEBI).
+
+Your task is to write the **COMPANY OVERVIEW** (often titled "Our Business" or "History and Corporate Structure") section of the DRHP using the extracted company facts below.
+
+EXTRACTED COMPANY FACTS:
+---
+{facts}
+---
+
+INSTRUCTIONS:
+1. Write the section in a formal, detailed corporate narrative suitable for institutional investors.
+2. Use clean Markdown headings and include:
+   - **Corporate Profile & History**: Date of incorporation, state of registration, changes in registered name.
+   - **Business Activities**: Core operations, target markets, primary products or services, operational scale.
+   - **Key Milestones**: Chronological summary of major corporate events, awards, capacity additions (use a table or timeline format).
+   - **Corporate Structure**: Offices, subsidiaries, factories, or physical presence locations.
+   - **Key Management**: Brief outline of Board of Directors and key management roles.
+3. Keep the writing strictly facts-based. If a particular detail (e.g. details about factories) is missing from the facts, skip that sub-section or use standard SEBI placeholders [●]. Do NOT fabricate history.
