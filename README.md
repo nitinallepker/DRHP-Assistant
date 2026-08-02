@@ -9,8 +9,7 @@ An AI-powered platform that automates the preparation of a **Draft Red Herring P
 ## 🌐 Live Demo
 
 - **Frontend:** <https://drhp-assistant.vercel.app/>
-- **Backend API:** <https://drhp-assistant.onrender.com>
-- **API Documentation:** <https://drhp-assistant.onrender.com>/docs
+- **Backend API:** <https://drhp-assistant.onrender.com/>
 
 ---
 
