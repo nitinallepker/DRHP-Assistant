@@ -250,7 +250,7 @@ DRHP-Assistant
 ## Clone
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <https://github.com/nitinallepker/DRHP-Assistant>
 ```
 
 ---
@@ -309,8 +309,6 @@ PORT=8000
 # 👨‍💻 Author
 
 **Nitin Anand**
-
-GitHub: https://github.com/<YOUR_USERNAME>
 
 ---
 
