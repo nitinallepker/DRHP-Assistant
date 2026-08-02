@@ -205,43 +205,43 @@ DRHP-Assistant
 
 ## Workspace Upload
 
-![Workspace](screenshots/workspace.png)
+![Workspace](/workspace.png)
 
 ---
 
 ## Knowledge Repository
 
-![Knowledge](screenshots/knowledge.png)
+![Knowledge](/knowledge.png)
 
 ---
 
 ## DRHP Generation
 
-![DRHP](screenshots/drhp.png)
+![DRHP](/DRHPPage.png)
 
 ---
 
 ## AI Compliance Review
 
-![Review](screenshots/review.png)
+![Review](/Review.png)
 
 ---
 
 ## AI Improvement Engine
 
-![Improvement](screenshots/improvement.png)
+![Improvement](/Imrovement.png)
 
 ---
 
 ## Transformation Engine
 
-![Transformation](screenshots/transformation.png)
+![Transformation](/Transformation.png)
 
 ---
 
 ## Export Page
 
-![Export](screenshots/export.png)
+![Export](/Export.png)
 
 ---
 
